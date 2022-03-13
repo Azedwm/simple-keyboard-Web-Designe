@@ -1,0 +1,91 @@
+body {
+    background: #c33764;
+ 
+    background: -webkit-linear-gradient(to right, #000000, #c33764);
+  
+    background: linear-gradient(to right, #000000, #ff0000);
+ 
+  }
+  
+  .container {
+    margin: 100px 0 0 200px;
+  }
+  
+  .row {
+    width: 100%;
+    height: 60px;
+  }
+  
+  .one,
+  .two,
+  .three,
+  .four,
+  .five {
+    margin: 10px 0 0 0;
+  }
+  
+  button {
+    color: black;
+    font-weight: 500;
+    width: 55px;
+    height: 55px;
+    border: none;
+    background: rgb(214, 214, 214);
+    box-shadow: 0 0 10px #000000, 0 0 40px #ffffff, 0 0 80px #ffffff;
+  
+    font-size: 15px;
+    margin-left: 5px;
+    outline: none;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 20%;
+  }
+  button:active {
+    box-shadow: 1px 1px 2px #000000, 1px 1px 2px #000000;
+  }
+  
+  .print {
+    width: 85px;
+    border-radius: 10px;
+  }
+  
+  .back {
+    width: 148px;
+    border-radius: 10px;
+  }
+  
+  .tab {
+    width: 115px;
+    border-radius: 10px;
+  }
+  
+  .slace {
+    width: 90px;
+    border: 10px;
+  }
+  
+  .cap {
+    width: 96px;
+    border-radius: 10px;
+  }
+  
+  .enter-btn {
+    width: 109px;
+    border-radius: 10px;
+  }
+  
+  .shift {
+    width: 135px;
+    border-radius: 10px;
+   
+  }
+  
+  .last {
+    width: 56px;
+    border-radius: 10px;
+  }
+  
+  .space {
+    width: 398px;
+    border-radius: 10px;
+  
+  }
